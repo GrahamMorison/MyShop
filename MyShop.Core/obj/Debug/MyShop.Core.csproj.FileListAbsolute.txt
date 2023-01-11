@@ -1,0 +1,6 @@
+C:\Graham Code\Practice\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\Graham Code\Practice\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Graham Code\Practice\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.AssemblyReference.cache
+C:\Graham Code\Practice\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+C:\Graham Code\Practice\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\Graham Code\Practice\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
